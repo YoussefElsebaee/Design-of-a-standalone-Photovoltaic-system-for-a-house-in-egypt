@@ -22,4 +22,4 @@ The project focuses on:
 - **PVSYSTEM.png**: System diagram
 - **renewable energy project_Project.zip**: PVsyst project folder
 
-For questions, feedback, or further discussion, please contact Youssef Elsebaie @ elsebaee.usf@gmail.com Mohamed Motawea @ mohamed.ahmed.motawea20@gmail.com , Ali wael @ alizarefa9@gmail.com
+For questions, feedback, or further discussion, please contact Youssef Elsebaie @ elsebaee.usf@gmail.com , Mohamed Motawea @ mohamed.ahmed.motawea20@gmail.com , Ali wael @ alizarefa9@gmail.com
