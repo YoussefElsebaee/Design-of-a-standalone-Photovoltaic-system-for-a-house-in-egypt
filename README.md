@@ -5,7 +5,7 @@ This repository showcases a comprehensive project on the design, simulation, and
 
 - **Project Report:** Detailed documentation of the system design, simulation results, and cost analysis.
 - **Presentation:** Slides summarizing the project objectives, methodology, and key findings.
-- **Simulation Report:** In-depth analysis of simulation data, performance metrics, and system validation.
+- **Simulation Report:** In-depth analysis of simulation data, performance metrics, and system validation. 
   
 *All the details and design decisions are found in the **project report.***
 ## Project Overview
